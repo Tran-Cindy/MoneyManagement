@@ -11,4 +11,5 @@ Features:
 - Investments - add, edit, delete investments 
   
 Each button has a tooltip on what it does.  
-4 Themes: default, blue, green, pink.
+4 Themes: default, blue, green, pink.  
+Preview of the project can be found in the "images" folder.
